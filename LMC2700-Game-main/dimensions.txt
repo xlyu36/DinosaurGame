@@ -1,0 +1,19 @@
+container
+    height: 400px
+    width: 1200px
+
+dino
+    height: 70px
+    width: 70px
+
+block 
+    height: 80px
+    width: 125px
+
+road
+    height: 30px
+    width: 2000px
+
+cloud
+    height: 80px
+    width: 2000px
